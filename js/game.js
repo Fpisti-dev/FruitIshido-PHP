@@ -514,7 +514,7 @@ function Landing(NeighborStone)
     }
 
     // On the border has not score
-    if (sc.RecentScore > 0 && (sNeighborName[0] == "x" || sNeighborName[1] == "x" || sNeighborName[2] == "x" || sNeighborName[3] == "x"))
+    if (sc.recentScore > 0 && (sNeighborName[0] == "x" || sNeighborName[1] == "x" || sNeighborName[2] == "x" || sNeighborName[3] == "x"))
     {
         sc.recentScore = 0;
     }
