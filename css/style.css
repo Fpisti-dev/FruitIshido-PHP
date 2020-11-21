@@ -1,0 +1,55 @@
+.apple {
+    background-image: url(../resources/Apple50.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.apricot {
+    background-image: url(../resources/Apricot50.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.kiwi {
+    background-image: url(../resources/Kiwi50.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.cherry {
+    background-image: url(../resources/Cherry50.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.pear {
+    background-image: url(../resources/Pear50.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.strawberry {
+    background-image: url(../resources/Strawberry50.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.aspect-ratio-box {
+	width: 100%; 
+	padding-top: 40%;
+	position: relative;
+}
+
+.aspect-ratio-box-inside {
+	position: absolute;
+	top: 0; 
+    left: 0; 
+    bottom: 0; 
+    right: 0; 
+}
+
+.stone {
+	width: 8.33%; 
+	height: 12.5%;
+}
+
